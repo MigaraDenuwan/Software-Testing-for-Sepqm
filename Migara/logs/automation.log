@@ -1,0 +1,440 @@
+2025-05-03 07:42:50 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-03 07:42:58 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-03 07:42:58 INFO  AutomationExerciseTests:236 - Starting testContactUsForm
+2025-05-03 07:42:58 INFO  AutomationExerciseTests:240 - Home page verified
+2025-05-03 07:42:58 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250503_074258.png
+2025-05-03 07:43:00 INFO  AutomationExerciseTests:245 - Clicked Contact Us button
+2025-05-03 07:43:00 INFO  AutomationExerciseTests:250 - 'GET IN TOUCH' verified
+2025-05-03 07:43:00 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/get_in_touch_20250503_074300.png
+2025-05-03 07:43:00 INFO  AutomationExerciseTests:255 - Filled contact form
+2025-05-03 07:43:00 INFO  AutomationExerciseTests:260 - Uploaded file: /Users/arunalubamunusinghe/Desktop/untitled folder/sepqm/src/test/resources/testfile.txt
+2025-05-03 07:43:00 INFO  AutomationExerciseTests:264 - Clicked Submit button
+2025-05-03 07:43:00 INFO  AutomationExerciseTests:269 - Accepted alert
+2025-05-03 07:43:00 INFO  AutomationExerciseTests:274 - 'Success! Your details have been submitted successfully.' verified
+2025-05-03 07:43:00 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/contact_form_success_20250503_074300.png
+2025-05-03 07:43:02 INFO  AutomationExerciseTests:281 - Home page verified after clicking Home button
+2025-05-03 07:43:02 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_after_contact_20250503_074302.png
+2025-05-03 07:43:02 INFO  AutomationExerciseTests:287 - Tearing down test environment
+2025-05-03 07:43:02 INFO  AutomationExerciseTests:290 - WebDriver closed
+2025-05-03 07:43:02 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-03 07:43:08 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-03 07:43:08 INFO  AutomationExerciseTests:140 - Starting testLoginUserWithCorrectCredentials
+2025-05-03 07:43:08 INFO  AutomationExerciseTests:144 - Home page verified
+2025-05-03 07:43:08 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250503_074308.png
+2025-05-03 07:43:14 INFO  AutomationExerciseTests:148 - Clicked Signup/Login button
+2025-05-03 07:43:14 INFO  AutomationExerciseTests:152 - 'Login to your account' verified
+2025-05-03 07:43:15 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/login_to_account_20250503_074314.png
+2025-05-03 07:43:15 INFO  AutomationExerciseTests:156 - Entered login details: Email=arunalu@gmail.com
+2025-05-03 07:43:15 INFO  AutomationExerciseTests:159 - Clicked Login button
+2025-05-03 07:44:00 ERROR TestListener:23 - Test Failed: testLoginUserWithCorrectCredentials
+2025-05-03 07:44:00 ERROR TestListener:30 - Failed to capture screenshot on test failure: class edu.automationexercise.utils.TestListener cannot access a member of class edu.automationexercise.tests.AutomationExerciseTests with modifiers "protected"
+2025-05-03 07:44:00 INFO  AutomationExerciseTests:287 - Tearing down test environment
+2025-05-03 07:44:00 INFO  AutomationExerciseTests:290 - WebDriver closed
+2025-05-03 07:44:00 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-03 07:44:10 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-03 07:44:10 INFO  AutomationExerciseTests:170 - Starting testLoginUserWithIncorrectCredentials
+2025-05-03 07:44:10 INFO  AutomationExerciseTests:173 - Home page verified
+2025-05-03 07:44:10 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250503_074410.png
+2025-05-03 07:44:12 INFO  AutomationExerciseTests:177 - Clicked Signup/Login button
+2025-05-03 07:44:12 INFO  AutomationExerciseTests:181 - 'Login to your account' verified
+2025-05-03 07:44:12 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/login_to_account_20250503_074412.png
+2025-05-03 07:44:12 INFO  AutomationExerciseTests:185 - Entered login details: Email=arunalu@gmail.com
+2025-05-03 07:44:12 INFO  AutomationExerciseTests:188 - Clicked Login button
+2025-05-03 07:44:57 ERROR TestListener:23 - Test Failed: testLoginUserWithIncorrectCredentials
+2025-05-03 07:44:57 ERROR TestListener:30 - Failed to capture screenshot on test failure: class edu.automationexercise.utils.TestListener cannot access a member of class edu.automationexercise.tests.AutomationExerciseTests with modifiers "protected"
+2025-05-03 07:44:57 INFO  AutomationExerciseTests:287 - Tearing down test environment
+2025-05-03 07:44:58 INFO  AutomationExerciseTests:290 - WebDriver closed
+2025-05-03 07:44:58 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-03 07:45:06 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-03 07:45:06 INFO  AutomationExerciseTests:69 - Starting testRegisterUser
+2025-05-03 07:45:06 INFO  AutomationExerciseTests:73 - Home page verified
+2025-05-03 07:45:06 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250503_074506.png
+2025-05-03 07:45:09 INFO  AutomationExerciseTests:78 - Clicked Signup/Login button
+2025-05-03 07:45:09 INFO  AutomationExerciseTests:82 - 'New User Signup!' verified
+2025-05-03 07:45:09 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/new_user_signup_20250503_074509.png
+2025-05-03 07:45:09 INFO  AutomationExerciseTests:86 - Entered signup details: Name=John Doe, Email=testuser1746238506191@example.com
+2025-05-03 07:45:13 INFO  AutomationExerciseTests:89 - Clicked Signup button
+2025-05-03 07:45:13 INFO  AutomationExerciseTests:93 - Current URL after signup click: https://automationexercise.com/signup
+2025-05-03 07:45:13 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/after_signup_click_20250503_074513.png
+2025-05-03 07:45:13 INFO  SignupFormPage:99 - Selected title: Mr
+2025-05-03 07:45:13 INFO  SignupFormPage:105 - Filled name: John Doe
+2025-05-03 07:45:13 INFO  SignupFormPage:108 - Email field is pre-filled and disabled, skipping input
+2025-05-03 07:45:13 INFO  SignupFormPage:115 - Filled password
+2025-05-03 07:45:13 INFO  SignupFormPage:120 - Selected day: 1
+2025-05-03 07:45:13 INFO  SignupFormPage:127 - Selected month: January
+2025-05-03 07:45:13 INFO  SignupFormPage:134 - Selected year: 1990
+2025-05-03 07:45:13 INFO  AutomationExerciseTests:98 - Filled account information
+2025-05-03 07:45:14 ERROR TestListener:23 - Test Failed: testRegisterUser
+2025-05-03 07:45:14 ERROR TestListener:30 - Failed to capture screenshot on test failure: class edu.automationexercise.utils.TestListener cannot access a member of class edu.automationexercise.tests.AutomationExerciseTests with modifiers "protected"
+2025-05-03 07:45:14 INFO  AutomationExerciseTests:287 - Tearing down test environment
+2025-05-03 07:45:14 INFO  AutomationExerciseTests:290 - WebDriver closed
+2025-05-03 07:45:14 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-03 07:45:19 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-03 07:45:19 INFO  AutomationExerciseTests:199 - Starting testRegisterUserEmailFailure
+2025-05-03 07:45:19 INFO  AutomationExerciseTests:203 - Home page verified
+2025-05-03 07:45:20 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250503_074519.png
+2025-05-03 07:45:20 INFO  AutomationExerciseTests:207 - Clicked Signup/Login button
+2025-05-03 07:45:20 INFO  AutomationExerciseTests:211 - 'New User Signup!' verified
+2025-05-03 07:45:20 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/new_user_signup_20250503_074520.png
+2025-05-03 07:45:21 INFO  AutomationExerciseTests:216 - Entered signup details: Name=Jane Doe, Email=ddd@gmail.com
+2025-05-03 07:45:21 INFO  AutomationExerciseTests:219 - Clicked Signup button
+2025-05-03 07:46:06 ERROR TestListener:23 - Test Failed: testRegisterUserEmailFailure
+2025-05-03 07:46:06 ERROR TestListener:30 - Failed to capture screenshot on test failure: class edu.automationexercise.utils.TestListener cannot access a member of class edu.automationexercise.tests.AutomationExerciseTests with modifiers "protected"
+2025-05-03 07:46:06 INFO  AutomationExerciseTests:287 - Tearing down test environment
+2025-05-03 07:46:06 INFO  AutomationExerciseTests:290 - WebDriver closed
+2025-05-03 07:50:21 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-03 07:50:30 INFO  SignupFormPage:23 - Hid ad elements
+2025-05-03 07:50:30 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-03 07:50:30 INFO  AutomationExerciseTests:236 - Starting testContactUsForm
+2025-05-03 07:50:30 INFO  AutomationExerciseTests:240 - Home page verified
+2025-05-03 07:50:30 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250503_075030.png
+2025-05-03 07:50:32 INFO  AutomationExerciseTests:245 - Clicked Contact Us button
+2025-05-03 07:50:32 INFO  AutomationExerciseTests:250 - 'GET IN TOUCH' verified
+2025-05-03 07:50:32 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/get_in_touch_20250503_075032.png
+2025-05-03 07:50:32 INFO  AutomationExerciseTests:255 - Filled contact form
+2025-05-03 07:50:32 INFO  AutomationExerciseTests:260 - Uploaded file: /Users/arunalubamunusinghe/Desktop/untitled folder/sepqm/src/test/resources/testfile.txt
+2025-05-03 07:50:32 INFO  AutomationExerciseTests:264 - Clicked Submit button
+2025-05-03 07:50:32 INFO  AutomationExerciseTests:269 - Accepted alert
+2025-05-03 07:50:32 INFO  AutomationExerciseTests:274 - 'Success! Your details have been submitted successfully.' verified
+2025-05-03 07:50:32 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/contact_form_success_20250503_075032.png
+2025-05-03 07:50:34 INFO  AutomationExerciseTests:281 - Home page verified after clicking Home button
+2025-05-03 07:50:34 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_after_contact_20250503_075034.png
+2025-05-03 07:50:34 INFO  AutomationExerciseTests:287 - Tearing down test environment
+2025-05-03 07:50:34 INFO  AutomationExerciseTests:290 - WebDriver closed
+2025-05-03 07:50:34 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-03 07:50:39 INFO  SignupFormPage:23 - Hid ad elements
+2025-05-03 07:50:39 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-03 07:50:39 INFO  AutomationExerciseTests:140 - Starting testLoginUserWithCorrectCredentials
+2025-05-03 07:50:39 INFO  AutomationExerciseTests:144 - Home page verified
+2025-05-03 07:50:40 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250503_075039.png
+2025-05-03 07:50:41 INFO  AutomationExerciseTests:148 - Clicked Signup/Login button
+2025-05-03 07:50:41 INFO  AutomationExerciseTests:152 - 'Login to your account' verified
+2025-05-03 07:50:41 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/login_to_account_20250503_075041.png
+2025-05-03 07:50:41 INFO  AutomationExerciseTests:156 - Entered login details: Email=arunalu@gmail.com
+2025-05-03 07:50:41 INFO  AutomationExerciseTests:159 - Clicked Login button
+2025-05-03 07:51:28 ERROR TestListener:23 - Test Failed: testLoginUserWithCorrectCredentials
+2025-05-03 07:51:28 ERROR TestListener:30 - Failed to capture screenshot on test failure: class edu.automationexercise.utils.TestListener cannot access a member of class edu.automationexercise.tests.AutomationExerciseTests with modifiers "protected"
+2025-05-03 07:51:28 INFO  AutomationExerciseTests:287 - Tearing down test environment
+2025-05-03 07:51:28 INFO  AutomationExerciseTests:290 - WebDriver closed
+2025-05-03 07:51:28 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-03 07:51:34 INFO  SignupFormPage:23 - Hid ad elements
+2025-05-03 07:51:34 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-03 07:51:34 INFO  AutomationExerciseTests:170 - Starting testLoginUserWithIncorrectCredentials
+2025-05-03 07:51:34 INFO  AutomationExerciseTests:173 - Home page verified
+2025-05-03 07:51:34 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250503_075134.png
+2025-05-03 07:51:35 INFO  AutomationExerciseTests:177 - Clicked Signup/Login button
+2025-05-03 07:51:35 INFO  AutomationExerciseTests:181 - 'Login to your account' verified
+2025-05-03 07:51:35 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/login_to_account_20250503_075135.png
+2025-05-03 07:51:35 INFO  AutomationExerciseTests:185 - Entered login details: Email=arunalu@gmail.com
+2025-05-03 07:51:35 INFO  AutomationExerciseTests:188 - Clicked Login button
+2025-05-03 07:52:21 ERROR TestListener:23 - Test Failed: testLoginUserWithIncorrectCredentials
+2025-05-03 07:52:21 ERROR TestListener:30 - Failed to capture screenshot on test failure: class edu.automationexercise.utils.TestListener cannot access a member of class edu.automationexercise.tests.AutomationExerciseTests with modifiers "protected"
+2025-05-03 07:52:21 INFO  AutomationExerciseTests:287 - Tearing down test environment
+2025-05-03 07:52:21 INFO  AutomationExerciseTests:290 - WebDriver closed
+2025-05-03 07:52:21 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-03 07:52:27 INFO  SignupFormPage:23 - Hid ad elements
+2025-05-03 07:52:27 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-03 07:52:27 INFO  AutomationExerciseTests:69 - Starting testRegisterUser
+2025-05-03 07:52:27 INFO  AutomationExerciseTests:73 - Home page verified
+2025-05-03 07:52:27 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250503_075227.png
+2025-05-03 07:52:29 INFO  AutomationExerciseTests:78 - Clicked Signup/Login button
+2025-05-03 07:52:29 INFO  AutomationExerciseTests:82 - 'New User Signup!' verified
+2025-05-03 07:52:29 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/new_user_signup_20250503_075229.png
+2025-05-03 07:52:29 INFO  AutomationExerciseTests:86 - Entered signup details: Name=John Doe, Email=testuser1746238947497@example.com
+2025-05-03 07:52:29 INFO  AutomationExerciseTests:89 - Clicked Signup button
+2025-05-03 07:52:36 INFO  AutomationExerciseTests:93 - Current URL after signup click: https://automationexercise.com/signup
+2025-05-03 07:52:36 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/after_signup_click_20250503_075236.png
+2025-05-03 07:52:36 ERROR TestListener:23 - Test Failed: testRegisterUser
+2025-05-03 07:52:36 ERROR TestListener:30 - Failed to capture screenshot on test failure: class edu.automationexercise.utils.TestListener cannot access a member of class edu.automationexercise.tests.AutomationExerciseTests with modifiers "protected"
+2025-05-03 07:52:36 INFO  AutomationExerciseTests:287 - Tearing down test environment
+2025-05-03 07:52:36 INFO  AutomationExerciseTests:290 - WebDriver closed
+2025-05-03 07:52:36 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-03 07:52:42 INFO  SignupFormPage:23 - Hid ad elements
+2025-05-03 07:52:42 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-03 07:52:42 INFO  AutomationExerciseTests:199 - Starting testRegisterUserEmailFailure
+2025-05-03 07:52:42 INFO  AutomationExerciseTests:203 - Home page verified
+2025-05-03 07:52:42 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250503_075242.png
+2025-05-03 07:52:44 INFO  AutomationExerciseTests:207 - Clicked Signup/Login button
+2025-05-03 07:52:44 INFO  AutomationExerciseTests:211 - 'New User Signup!' verified
+2025-05-03 07:52:44 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/new_user_signup_20250503_075244.png
+2025-05-03 07:52:44 INFO  AutomationExerciseTests:216 - Entered signup details: Name=Jane Doe, Email=ddd@gmail.com
+2025-05-03 07:52:44 INFO  AutomationExerciseTests:219 - Clicked Signup button
+2025-05-03 07:53:30 ERROR TestListener:23 - Test Failed: testRegisterUserEmailFailure
+2025-05-03 07:53:30 ERROR TestListener:30 - Failed to capture screenshot on test failure: class edu.automationexercise.utils.TestListener cannot access a member of class edu.automationexercise.tests.AutomationExerciseTests with modifiers "protected"
+2025-05-03 07:53:30 INFO  AutomationExerciseTests:287 - Tearing down test environment
+2025-05-03 07:53:31 INFO  AutomationExerciseTests:290 - WebDriver closed
+2025-05-03 07:57:33 INFO  AutomationExerciseTests:333 - Setting up test environment
+2025-05-03 07:57:39 INFO  AutomationExerciseTests:346 - Navigated to: https://automationexercise.com
+2025-05-03 07:57:39 INFO  AutomationExerciseTests:364 - Starting testRegisterUser
+2025-05-03 07:57:39 INFO  AutomationExerciseTests:369 - Home page verified
+2025-05-03 07:57:39 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_20250503_075739.png
+2025-05-03 07:57:41 INFO  AutomationExerciseTests:374 - Clicked Signup/Login button
+2025-05-03 07:57:41 INFO  AutomationExerciseTests:379 - 'New User Signup!' verified
+2025-05-03 07:57:41 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/new_user_signup_20250503_075741.png
+2025-05-03 07:57:41 INFO  AutomationExerciseTests:384 - Entered signup details: Name=John Doe, Email=testuser1746239259043@example.com
+2025-05-03 07:57:41 INFO  AutomationExerciseTests:388 - Clicked Signup button
+2025-05-03 07:57:43 INFO  AutomationExerciseTests:393 - Current URL after signup click: https://automationexercise.com/signup
+2025-05-03 07:57:44 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/after_signup_click_20250503_075743.png
+2025-05-03 07:57:44 INFO  SignupFormPage:295 - Selected title: Mr
+2025-05-03 07:57:44 INFO  SignupFormPage:304 - Filled name: John Doe
+2025-05-03 07:57:44 INFO  SignupFormPage:309 - Email field is pre-filled and disabled, skipping input
+2025-05-03 07:57:44 INFO  SignupFormPage:319 - Filled password
+2025-05-03 07:57:44 INFO  SignupFormPage:325 - Selected day: 1
+2025-05-03 07:57:44 INFO  SignupFormPage:333 - Selected month: January
+2025-05-03 07:57:44 INFO  SignupFormPage:341 - Selected year: 1990
+2025-05-03 07:57:44 INFO  AutomationExerciseTests:398 - Filled account information
+2025-05-03 07:57:44 INFO  SignupFormPage:354 - Selected newsletter checkbox
+2025-05-03 07:57:44 INFO  AutomationExerciseTests:402 - Selected newsletter checkbox
+2025-05-03 07:57:44 INFO  SignupFormPage:368 - Selected offers checkbox
+2025-05-03 07:57:44 INFO  AutomationExerciseTests:405 - Selected offers checkbox
+2025-05-03 07:57:44 INFO  SignupFormPage:388 - Filled address information
+2025-05-03 07:57:44 INFO  AutomationExerciseTests:410 - Filled address information
+2025-05-03 07:57:46 INFO  SignupFormPage:394 - Clicked Create Account button
+2025-05-03 07:57:46 INFO  AutomationExerciseTests:414 - Clicked Create Account button
+2025-05-03 07:57:46 INFO  AutomationExerciseTests:419 - 'ACCOUNT CREATED!' verified
+2025-05-03 07:57:46 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/account_created_20250503_075746.png
+2025-05-03 07:57:48 INFO  AutomationExerciseTests:424 - Clicked Continue button
+2025-05-03 07:57:48 INFO  AutomationExerciseTests:430 - Logged in as: Logged in as John DoeJohn Doe
+2025-05-03 07:57:49 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/logged_in_20250503_075748.png
+2025-05-03 07:57:50 INFO  AutomationExerciseTests:435 - Clicked Delete Account button
+2025-05-03 07:57:50 INFO  AutomationExerciseTests:440 - 'ACCOUNT DELETED!' verified
+2025-05-03 07:57:50 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/account_deleted_20250503_075750.png
+2025-05-03 07:57:51 INFO  AutomationExerciseTests:445 - Clicked Continue button after account deletion
+2025-05-03 07:57:51 INFO  AutomationExerciseTests:452 - Tearing down test environment
+2025-05-03 07:57:52 INFO  AutomationExerciseTests:455 - WebDriver closed
+2025-05-03 08:08:38 INFO  AutomationExerciseTests:333 - Setting up test environment
+2025-05-03 08:08:43 INFO  AutomationExerciseTests:346 - Navigated to: https://automationexercise.com
+2025-05-03 08:08:43 INFO  AutomationExerciseTests:450 - Starting testRegisterUserEmailFailure
+2025-05-03 08:08:43 INFO  AutomationExerciseTests:454 - Home page verified
+2025-05-03 08:08:43 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_20250503_080843.png
+2025-05-03 08:08:44 INFO  AutomationExerciseTests:458 - Clicked Signup/Login button
+2025-05-03 08:08:44 INFO  AutomationExerciseTests:462 - 'New User Signup!' verified
+2025-05-03 08:08:44 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/new_user_signup_20250503_080844.png
+2025-05-03 08:08:44 INFO  AutomationExerciseTests:467 - Entered signup details: Name=Jane Doe, Email=ddd@gmail.com
+2025-05-03 08:08:45 INFO  AutomationExerciseTests:470 - Clicked Signup button
+2025-05-03 08:09:31 INFO  AutomationExerciseTests:489 - Tearing down test environment
+2025-05-03 08:09:31 INFO  AutomationExerciseTests:492 - WebDriver closed
+2025-05-03 08:14:36 INFO  AutomationExerciseTests:333 - Setting up test environment
+2025-05-03 08:14:43 INFO  AutomationExerciseTests:346 - Navigated to: https://automationexercise.com
+2025-05-03 08:14:43 INFO  AutomationExerciseTests:487 - Starting testContactUsForm
+2025-05-03 08:14:43 INFO  AutomationExerciseTests:491 - Home page verified
+2025-05-03 08:14:43 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_20250503_081443.png
+2025-05-03 08:14:45 INFO  AutomationExerciseTests:495 - Clicked Contact Us button
+2025-05-03 08:14:45 INFO  AutomationExerciseTests:499 - 'GET IN TOUCH' verified
+2025-05-03 08:14:45 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/get_in_touch_20250503_081445.png
+2025-05-03 08:14:45 INFO  AutomationExerciseTests:503 - Filled contact form
+2025-05-03 08:14:45 INFO  AutomationExerciseTests:507 - Uploaded file: /Users/arunalubamunusinghe/Desktop/untitled folder/sepqm/src/test/resources/testfile.txt
+2025-05-03 08:14:45 INFO  AutomationExerciseTests:510 - Clicked Submit button
+2025-05-03 08:14:45 INFO  AutomationExerciseTests:514 - Accepted alert
+2025-05-03 08:14:45 INFO  AutomationExerciseTests:518 - 'Success! Your details have been submitted successfully.' verified
+2025-05-03 08:14:45 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/contact_form_success_20250503_081445.png
+2025-05-03 08:14:47 INFO  AutomationExerciseTests:524 - Home page verified after clicking Home button
+2025-05-03 08:14:47 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_after_contact_20250503_081447.png
+2025-05-03 08:14:47 INFO  AutomationExerciseTests:530 - Tearing down test environment
+2025-05-03 08:14:47 INFO  AutomationExerciseTests:533 - WebDriver closed
+2025-05-03 08:19:15 INFO  AutomationExerciseTests:333 - Setting up test environment
+2025-05-03 08:19:22 INFO  AutomationExerciseTests:346 - Navigated to: https://automationexercise.com
+2025-05-03 08:19:22 INFO  AutomationExerciseTests:487 - Starting testContactUsForm
+2025-05-03 08:19:22 INFO  AutomationExerciseTests:491 - Home page verified
+2025-05-03 08:19:22 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_20250503_081922.png
+2025-05-03 08:19:24 INFO  AutomationExerciseTests:495 - Clicked Contact Us button
+2025-05-03 08:19:24 INFO  AutomationExerciseTests:499 - 'GET IN TOUCH' verified
+2025-05-03 08:19:24 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/get_in_touch_20250503_081924.png
+2025-05-03 08:19:24 INFO  AutomationExerciseTests:503 - Filled contact form
+2025-05-03 08:19:24 INFO  AutomationExerciseTests:507 - Uploaded file: /Users/arunalubamunusinghe/Desktop/untitled folder/sepqm/src/test/resources/testfile.txt
+2025-05-03 08:19:24 INFO  AutomationExerciseTests:510 - Clicked Submit button
+2025-05-03 08:19:24 INFO  AutomationExerciseTests:514 - Accepted alert
+2025-05-03 08:19:24 INFO  AutomationExerciseTests:518 - 'Success! Your details have been submitted successfully.' verified
+2025-05-03 08:19:25 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/contact_form_success_20250503_081924.png
+2025-05-03 08:19:27 INFO  AutomationExerciseTests:524 - Home page verified after clicking Home button
+2025-05-03 08:19:27 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_after_contact_20250503_081927.png
+2025-05-03 08:19:27 INFO  AutomationExerciseTests:530 - Tearing down test environment
+2025-05-03 08:19:27 INFO  AutomationExerciseTests:533 - WebDriver closed
+2025-05-03 08:20:19 INFO  AutomationExerciseTests:333 - Setting up test environment
+2025-05-03 08:20:22 INFO  AutomationExerciseTests:346 - Navigated to: https://automationexercise.com
+2025-05-03 08:20:22 INFO  AutomationExerciseTests:487 - Starting testContactUsForm
+2025-05-03 08:20:25 INFO  AutomationExerciseTests:491 - Home page verified
+2025-05-03 08:20:25 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_20250503_082025.png
+2025-05-03 08:20:27 INFO  AutomationExerciseTests:495 - Clicked Contact Us button
+2025-05-03 08:20:27 INFO  AutomationExerciseTests:499 - 'GET IN TOUCH' verified
+2025-05-03 08:20:27 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/get_in_touch_20250503_082027.png
+2025-05-03 08:20:27 INFO  AutomationExerciseTests:503 - Filled contact form
+2025-05-03 08:20:27 INFO  AutomationExerciseTests:507 - Uploaded file: /Users/arunalubamunusinghe/Desktop/untitled folder/sepqm/src/test/resources/testfile.txt
+2025-05-03 08:20:27 INFO  AutomationExerciseTests:510 - Clicked Submit button
+2025-05-03 08:20:27 INFO  AutomationExerciseTests:514 - Accepted alert
+2025-05-03 08:20:27 INFO  AutomationExerciseTests:518 - 'Success! Your details have been submitted successfully.' verified
+2025-05-03 08:20:27 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/contact_form_success_20250503_082027.png
+2025-05-03 08:20:30 INFO  AutomationExerciseTests:524 - Home page verified after clicking Home button
+2025-05-03 08:20:30 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_after_contact_20250503_082030.png
+2025-05-03 08:20:30 INFO  AutomationExerciseTests:530 - Tearing down test environment
+2025-05-03 08:20:30 INFO  AutomationExerciseTests:533 - WebDriver closed
+2025-05-03 08:20:30 INFO  AutomationExerciseTests:333 - Setting up test environment
+2025-05-03 08:20:36 INFO  AutomationExerciseTests:346 - Navigated to: https://automationexercise.com
+2025-05-03 08:20:36 INFO  AutomationExerciseTests:364 - Starting testRegisterUser
+2025-05-03 08:20:36 INFO  AutomationExerciseTests:369 - Home page verified
+2025-05-03 08:20:36 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_20250503_082036.png
+2025-05-03 08:20:39 INFO  AutomationExerciseTests:374 - Clicked Signup/Login button
+2025-05-03 08:20:39 INFO  AutomationExerciseTests:379 - 'New User Signup!' verified
+2025-05-03 08:20:39 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/new_user_signup_20250503_082039.png
+2025-05-03 08:20:39 INFO  AutomationExerciseTests:384 - Entered signup details: Name=John Doe, Email=testuser1746240636033@example.com
+2025-05-03 08:20:39 INFO  AutomationExerciseTests:388 - Clicked Signup button
+2025-05-03 08:20:42 INFO  AutomationExerciseTests:393 - Current URL after signup click: https://automationexercise.com/signup
+2025-05-03 08:20:42 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/after_signup_click_20250503_082042.png
+2025-05-03 08:20:42 INFO  SignupFormPage:295 - Selected title: Mr
+2025-05-03 08:20:42 INFO  SignupFormPage:304 - Filled name: John Doe
+2025-05-03 08:20:42 INFO  SignupFormPage:309 - Email field is pre-filled and disabled, skipping input
+2025-05-03 08:20:42 INFO  SignupFormPage:319 - Filled password
+2025-05-03 08:20:42 INFO  SignupFormPage:325 - Selected day: 1
+2025-05-03 08:20:42 INFO  SignupFormPage:333 - Selected month: January
+2025-05-03 08:20:42 INFO  SignupFormPage:341 - Selected year: 1990
+2025-05-03 08:20:42 INFO  AutomationExerciseTests:398 - Filled account information
+2025-05-03 08:20:43 INFO  SignupFormPage:354 - Selected newsletter checkbox
+2025-05-03 08:20:43 INFO  AutomationExerciseTests:402 - Selected newsletter checkbox
+2025-05-03 08:20:43 INFO  SignupFormPage:368 - Selected offers checkbox
+2025-05-03 08:20:43 INFO  AutomationExerciseTests:405 - Selected offers checkbox
+2025-05-03 08:20:43 INFO  SignupFormPage:388 - Filled address information
+2025-05-03 08:20:43 INFO  AutomationExerciseTests:410 - Filled address information
+2025-05-03 08:20:43 INFO  SignupFormPage:394 - Clicked Create Account button
+2025-05-03 08:20:43 INFO  AutomationExerciseTests:414 - Clicked Create Account button
+2025-05-03 08:20:44 INFO  AutomationExerciseTests:419 - 'ACCOUNT CREATED!' verified
+2025-05-03 08:20:44 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/account_created_20250503_082044.png
+2025-05-03 08:20:47 INFO  AutomationExerciseTests:424 - Clicked Continue button
+2025-05-03 08:20:47 INFO  AutomationExerciseTests:430 - Logged in as: Logged in as John DoeJohn Doe
+2025-05-03 08:20:47 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/logged_in_20250503_082047.png
+2025-05-03 08:20:48 INFO  AutomationExerciseTests:435 - Clicked Delete Account button
+2025-05-03 08:20:48 INFO  AutomationExerciseTests:440 - 'ACCOUNT DELETED!' verified
+2025-05-03 08:20:48 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/account_deleted_20250503_082048.png
+2025-05-03 08:20:50 INFO  AutomationExerciseTests:445 - Clicked Continue button after account deletion
+2025-05-03 08:20:50 INFO  AutomationExerciseTests:530 - Tearing down test environment
+2025-05-03 08:20:50 INFO  AutomationExerciseTests:533 - WebDriver closed
+2025-05-03 08:20:50 INFO  AutomationExerciseTests:333 - Setting up test environment
+2025-05-03 08:20:55 INFO  AutomationExerciseTests:346 - Navigated to: https://automationexercise.com
+2025-05-03 08:20:55 INFO  AutomationExerciseTests:450 - Starting testRegisterUserEmailFailure
+2025-05-03 08:20:55 INFO  AutomationExerciseTests:454 - Home page verified
+2025-05-03 08:20:55 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_20250503_082055.png
+2025-05-03 08:20:57 INFO  AutomationExerciseTests:458 - Clicked Signup/Login button
+2025-05-03 08:20:57 INFO  AutomationExerciseTests:462 - 'New User Signup!' verified
+2025-05-03 08:20:57 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/new_user_signup_20250503_082057.png
+2025-05-03 08:20:57 INFO  AutomationExerciseTests:467 - Entered signup details: Name=Jane Doe, Email=ddd@gmail.com
+2025-05-03 08:20:57 INFO  AutomationExerciseTests:470 - Clicked Signup button
+2025-05-03 08:21:43 ERROR TestListener:23 - Test Failed: testRegisterUserEmailFailure
+2025-05-03 08:21:43 ERROR TestListener:30 - Failed to capture screenshot on test failure: class edu.automationexercise.utils.TestListener cannot access a member of class edu.automationexercise.tests.AutomationExerciseTests with modifiers "protected"
+2025-05-03 08:21:43 INFO  AutomationExerciseTests:530 - Tearing down test environment
+2025-05-03 08:21:43 INFO  AutomationExerciseTests:533 - WebDriver closed
+2025-05-03 09:08:58 INFO  AutomationExerciseTests:333 - Setting up test environment
+2025-05-03 09:09:05 INFO  AutomationExerciseTests:346 - Navigated to: https://automationexercise.com
+2025-05-03 09:09:05 INFO  AutomationExerciseTests:531 - Starting testLoginUserWithCorrectCredentials
+2025-05-03 09:09:05 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_20250503_090905.png
+2025-05-03 09:09:07 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/login_to_account_20250503_090906.png
+2025-05-03 09:09:09 INFO  AutomationExerciseTests:554 - Tearing down test environment
+2025-05-03 09:09:09 INFO  AutomationExerciseTests:557 - WebDriver closed
+2025-05-03 09:10:57 INFO  AutomationExerciseTests:333 - Setting up test environment
+2025-05-03 09:11:01 INFO  AutomationExerciseTests:346 - Navigated to: https://automationexercise.com
+2025-05-03 09:11:01 INFO  AutomationExerciseTests:554 - Starting testLoginUserWithIncorrectCredentials
+2025-05-03 09:11:02 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_20250503_091101.png
+2025-05-03 09:11:03 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/login_to_account_20250503_091103.png
+2025-05-03 09:11:06 INFO  AutomationExerciseTests:576 - Tearing down test environment
+2025-05-03 09:11:06 INFO  AutomationExerciseTests:579 - WebDriver closed
+2025-05-03 09:14:30 INFO  AutomationExerciseTests:333 - Setting up test environment
+2025-05-03 09:14:36 INFO  AutomationExerciseTests:346 - Navigated to: https://automationexercise.com
+2025-05-03 09:14:36 INFO  AutomationExerciseTests:531 - Starting testLoginUserWithCorrectCredentials
+2025-05-03 09:14:36 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_20250503_091436.png
+2025-05-03 09:14:37 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/login_to_account_20250503_091437.png
+2025-05-03 09:14:40 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/logged_in_20250503_091439.png
+2025-05-03 09:14:40 INFO  AutomationExerciseTests:585 - Tearing down test environment
+2025-05-03 09:14:40 INFO  AutomationExerciseTests:588 - WebDriver closed
+2025-05-03 09:15:02 INFO  AutomationExerciseTests:333 - Setting up test environment
+2025-05-03 09:15:06 INFO  AutomationExerciseTests:346 - Navigated to: https://automationexercise.com
+2025-05-03 09:15:06 INFO  AutomationExerciseTests:563 - Starting testLoginUserWithIncorrectCredentials
+2025-05-03 09:15:06 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/home_page_20250503_091506.png
+2025-05-03 09:15:08 INFO  AutomationExerciseTests:356 - Screenshot saved: screenshots/login_to_account_20250503_091508.png
+2025-05-03 09:15:12 INFO  AutomationExerciseTests:585 - Tearing down test environment
+2025-05-03 09:15:13 INFO  AutomationExerciseTests:588 - WebDriver closed
+2025-05-05 23:22:47 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-05 23:22:56 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-05 23:22:56 INFO  AutomationExerciseTests:192 - Starting testContactUsForm
+2025-05-05 23:22:56 INFO  AutomationExerciseTests:196 - Home page verified
+2025-05-05 23:22:56 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250505_232256.png
+2025-05-05 23:22:58 INFO  AutomationExerciseTests:200 - Clicked Contact Us button
+2025-05-05 23:22:58 INFO  AutomationExerciseTests:204 - 'GET IN TOUCH' verified
+2025-05-05 23:22:58 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/get_in_touch_20250505_232258.png
+2025-05-05 23:22:58 INFO  AutomationExerciseTests:208 - Filled contact form
+2025-05-05 23:22:58 INFO  AutomationExerciseTests:212 - Uploaded file: /Users/arunalubamunusinghe/Desktop/untitled folder/sepqm/src/test/resources/testfile.txt
+2025-05-05 23:22:58 INFO  AutomationExerciseTests:215 - Clicked Submit button
+2025-05-05 23:22:58 INFO  AutomationExerciseTests:219 - Accepted alert
+2025-05-05 23:22:58 INFO  AutomationExerciseTests:223 - 'Success! Your details have been submitted successfully.' verified
+2025-05-05 23:22:58 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/contact_form_success_20250505_232258.png
+2025-05-05 23:23:02 INFO  AutomationExerciseTests:229 - Home page verified after clicking Home button
+2025-05-05 23:23:02 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_after_contact_20250505_232302.png
+2025-05-05 23:23:02 INFO  AutomationExerciseTests:290 - Tearing down test environment
+2025-05-05 23:23:02 INFO  AutomationExerciseTests:293 - WebDriver closed
+2025-05-05 23:23:02 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-05 23:23:05 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-05 23:23:05 INFO  AutomationExerciseTests:236 - Starting testLoginUserWithCorrectCredentials
+2025-05-05 23:23:08 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250505_232308.png
+2025-05-05 23:23:10 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/login_to_account_20250505_232310.png
+2025-05-05 23:23:14 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/logged_in_20250505_232313.png
+2025-05-05 23:23:14 INFO  AutomationExerciseTests:290 - Tearing down test environment
+2025-05-05 23:23:14 INFO  AutomationExerciseTests:293 - WebDriver closed
+2025-05-05 23:23:14 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-05 23:23:19 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-05 23:23:19 INFO  AutomationExerciseTests:268 - Starting testLoginUserWithIncorrectCredentials
+2025-05-05 23:23:19 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250505_232319.png
+2025-05-05 23:23:21 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/login_to_account_20250505_232321.png
+2025-05-05 23:23:25 ERROR TestListener:23 - Test Failed: testLoginUserWithIncorrectCredentials
+2025-05-05 23:23:25 ERROR TestListener:30 - Failed to capture screenshot on test failure: class edu.automationexercise.utils.TestListener cannot access a member of class edu.automationexercise.tests.AutomationExerciseTests with modifiers "protected"
+2025-05-05 23:23:25 INFO  AutomationExerciseTests:290 - Tearing down test environment
+2025-05-05 23:23:25 INFO  AutomationExerciseTests:293 - WebDriver closed
+2025-05-05 23:23:25 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-05 23:23:30 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-05 23:23:30 INFO  AutomationExerciseTests:69 - Starting testRegisterUser
+2025-05-05 23:23:30 INFO  AutomationExerciseTests:74 - Home page verified
+2025-05-05 23:23:30 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250505_232330.png
+2025-05-05 23:23:32 INFO  AutomationExerciseTests:79 - Clicked Signup/Login button
+2025-05-05 23:23:32 INFO  AutomationExerciseTests:84 - 'New User Signup!' verified
+2025-05-05 23:23:32 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/new_user_signup_20250505_232332.png
+2025-05-05 23:23:32 INFO  AutomationExerciseTests:89 - Entered signup details: Name=John Doe, Email=testuser1746467610749@example.com
+2025-05-05 23:23:33 INFO  AutomationExerciseTests:93 - Clicked Signup button
+2025-05-05 23:23:33 INFO  AutomationExerciseTests:98 - Current URL after signup click: https://automationexercise.com/signup
+2025-05-05 23:23:33 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/after_signup_click_20250505_232333.png
+2025-05-05 23:23:33 INFO  SignupFormPage:295 - Selected title: Mr
+2025-05-05 23:23:33 INFO  SignupFormPage:304 - Filled name: John Doe
+2025-05-05 23:23:33 INFO  SignupFormPage:309 - Email field is pre-filled and disabled, skipping input
+2025-05-05 23:23:33 INFO  SignupFormPage:319 - Filled password
+2025-05-05 23:23:33 INFO  SignupFormPage:325 - Selected day: 1
+2025-05-05 23:23:33 INFO  SignupFormPage:333 - Selected month: January
+2025-05-05 23:23:33 INFO  SignupFormPage:341 - Selected year: 1990
+2025-05-05 23:23:33 INFO  AutomationExerciseTests:103 - Filled account information
+2025-05-05 23:23:33 INFO  SignupFormPage:354 - Selected newsletter checkbox
+2025-05-05 23:23:33 INFO  AutomationExerciseTests:107 - Selected newsletter checkbox
+2025-05-05 23:23:33 INFO  SignupFormPage:368 - Selected offers checkbox
+2025-05-05 23:23:33 INFO  AutomationExerciseTests:110 - Selected offers checkbox
+2025-05-05 23:23:34 INFO  SignupFormPage:388 - Filled address information
+2025-05-05 23:23:34 INFO  AutomationExerciseTests:115 - Filled address information
+2025-05-05 23:23:35 INFO  SignupFormPage:394 - Clicked Create Account button
+2025-05-05 23:23:35 INFO  AutomationExerciseTests:119 - Clicked Create Account button
+2025-05-05 23:23:35 INFO  AutomationExerciseTests:124 - 'ACCOUNT CREATED!' verified
+2025-05-05 23:23:35 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/account_created_20250505_232335.png
+2025-05-05 23:23:38 INFO  AutomationExerciseTests:129 - Clicked Continue button
+2025-05-05 23:23:38 INFO  AutomationExerciseTests:135 - Logged in as: Logged in as John DoeJohn Doe
+2025-05-05 23:23:38 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/logged_in_20250505_232338.png
+2025-05-05 23:23:39 INFO  AutomationExerciseTests:140 - Clicked Delete Account button
+2025-05-05 23:23:39 INFO  AutomationExerciseTests:145 - 'ACCOUNT DELETED!' verified
+2025-05-05 23:23:39 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/account_deleted_20250505_232339.png
+2025-05-05 23:23:43 INFO  AutomationExerciseTests:150 - Clicked Continue button after account deletion
+2025-05-05 23:23:43 INFO  AutomationExerciseTests:290 - Tearing down test environment
+2025-05-05 23:23:43 INFO  AutomationExerciseTests:293 - WebDriver closed
+2025-05-05 23:23:43 INFO  AutomationExerciseTests:38 - Setting up test environment
+2025-05-05 23:23:48 INFO  AutomationExerciseTests:51 - Navigated to: https://automationexercise.com
+2025-05-05 23:23:48 INFO  AutomationExerciseTests:155 - Starting testRegisterUserEmailFailure
+2025-05-05 23:23:48 INFO  AutomationExerciseTests:159 - Home page verified
+2025-05-05 23:23:48 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/home_page_20250505_232348.png
+2025-05-05 23:23:49 INFO  AutomationExerciseTests:163 - Clicked Signup/Login button
+2025-05-05 23:23:49 INFO  AutomationExerciseTests:167 - 'New User Signup!' verified
+2025-05-05 23:23:49 INFO  AutomationExerciseTests:61 - Screenshot saved: screenshots/new_user_signup_20250505_232349.png
+2025-05-05 23:23:49 INFO  AutomationExerciseTests:172 - Entered signup details: Name=Jane Doe, Email=ddd@gmail.com
+2025-05-05 23:23:49 INFO  AutomationExerciseTests:175 - Clicked Signup button
+2025-05-05 23:24:35 ERROR TestListener:23 - Test Failed: testRegisterUserEmailFailure
+2025-05-05 23:24:35 ERROR TestListener:30 - Failed to capture screenshot on test failure: class edu.automationexercise.utils.TestListener cannot access a member of class edu.automationexercise.tests.AutomationExerciseTests with modifiers "protected"
+2025-05-05 23:24:35 INFO  AutomationExerciseTests:290 - Tearing down test environment
+2025-05-05 23:24:35 INFO  AutomationExerciseTests:293 - WebDriver closed
